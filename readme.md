@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Adithya Suresh</h1>
+
 # 💫 About Me:
-👋 I’m a Computer Science undergraduate passionate about web development and software engineering.<br>🚀 Interested in frontend development, problem-solving, and building efficient applications.<br>🌱 Continuously learning and exploring modern web technologies and emerging tools.<br>🤝 Love to collaborate on innovative projects and contribute to open-source communities.<br>🎯 Aim to create impactful digital solutions that make a real difference.
+👋 A Computer Science undergraduate passionate about web development and software engineering.<br>🚀 Interested in frontend development, problem-solving, and building efficient applications.<br>🌱 Continuously learning and exploring modern web technologies and emerging tools.<br>🤝 Love to collaborate on innovative projects and contribute to open-source communities.<br>🎯 Aim to create impactful digital solutions that make a real difference.
 
 
 ## 🌐 Socials:
